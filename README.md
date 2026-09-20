@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Desmond 👋
 
-<!--
-**Desmond140/Desmond140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & Security Engineer specializing in secure full-stack web platforms and native Android application development.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Languages:** Kotlin, Python, JavaScript, HTML5/CSS3
+- **Frameworks & Libraries:** Jetpack Compose, Django
+- **Backend & Database:** Firebase, PostgreSQL, REST APIs
+- **Security & Systems:** Linux (Mint/Kali), Application Security, Network Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Projects
+- **Hospital Management Application:** Native Android solution built with Kotlin, Jetpack Compose, and Firebase for real-time data handling.
+- **PodLux Hostel Management:** Full-stack Django and JavaScript platform for administrative workflows and booking management.
+- **SpotShare Parking App:** Jetpack Compose mobile solution integrated with Firebase services.
+- **Queen's Closet KE:** Scalable e-commerce web platform engineered with Django.
+
+### 📫 Connect
+- **Email:** desmondfrancis140@gmail.com
